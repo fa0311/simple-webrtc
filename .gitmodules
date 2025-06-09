@@ -1,0 +1,3 @@
+[submodule "srs"]
+	path = srs
+	url = https://github.com/ossrs/srs
