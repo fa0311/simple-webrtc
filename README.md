@@ -34,6 +34,7 @@ cd srs/trunk
 ./configure
 make
 cp objs/nginx/html/players/js/srs.sdk.js ../../html/players/srs.sdk.js
+cp objs/nginx/html/favicon.ico ../../html/favicon.ico
 ```
 
 
