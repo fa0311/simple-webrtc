@@ -1,6 +1,6 @@
-# simple-webrtc
+# simple-webrtc-streaming
 
-**simple-webrtc** is a fork of [SRS (Simple Realtime Server)](https://github.com/ossrs/srs) focused on low-latency streaming via WebRTC. It comes with a sleek Web UI and optimized configuration for real-time broadcasting with 500ms–1000ms latency.
+**simple-webrtc-streaming** is a fork of [SRS (Simple Realtime Server)](https://github.com/ossrs/srs) focused on low-latency streaming via WebRTC. It comes with a sleek Web UI and optimized configuration for real-time broadcasting with 500ms–1000ms latency.
 
 ## ✨ Features
 
@@ -23,8 +23,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/fa0311/simple-webrtc
-cd simple-webrtc
+git clone https://github.com/fa0311/simple-webrtc-streaming
+cd simple-webrtc-streaming
 ```
 
 ### 2. Build SRS
